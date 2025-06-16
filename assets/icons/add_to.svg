@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.233" height="29.602" viewBox="0 0 31.233 29.602">
+    <g id="Group_4357" data-name="Group 4357" transform="translate(-100.805 -358.496)">
+        <g id="Group_4355" data-name="Group 4355" transform="translate(100.805 358.496)">
+            <path id="Path_2898" data-name="Path 2898" d="M339.315,206.9v3.7a1.335,1.335,0,0,0,1.337,1.335h3.283a.243.243,0,0,1,.243.241v19.006a1.1,1.1,0,0,1-1.1,1.094H325a1.094,1.094,0,0,1-1.094-1.094V207.757A1.094,1.094,0,0,1,325,206.663h14.073A.24.24,0,0,1,339.315,206.9Z" transform="translate(-323.908 -206.663)" fill="#feb100"/>
+            <line id="Line_113" data-name="Line 113" x2="9.794" transform="translate(5.237 10.547)" fill="none" stroke="#d6d6d4" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_114" data-name="Line 114" x2="9.794" transform="translate(5.237 15.067)" fill="none" stroke="#d6d6d4" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Line_115" data-name="Line 115" x2="9.794" transform="translate(5.237 19.587)" fill="none" stroke="#d6d6d4" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+        </g>
+        <path id="Icon_metro-plus" data-name="Icon metro-plus" d="M18.84,8.226H13.067V2.453a.525.525,0,0,0-.525-.525H9.393a.525.525,0,0,0-.525.525V8.226H3.1a.525.525,0,0,0-.525.525V11.9a.525.525,0,0,0,.525.525H8.869V18.2a.525.525,0,0,0,.525.525h3.149a.525.525,0,0,0,.525-.525V12.425H18.84a.525.525,0,0,0,.525-.525V8.751A.525.525,0,0,0,18.84,8.226Z" transform="translate(112.673 369.375)" fill="#040d8d"/>
+    </g>
+</svg>

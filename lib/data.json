@@ -1,0 +1,44 @@
+[
+  {
+    "id": 9,
+    "word": "Car",
+    "word1": "Bus",
+    "word_accent": "Car",
+    "word1_accent": "Bus",
+    "image": "sliders/uploads/image63de0c0c7afaf_735372.jpeg",
+    "correct_word": "Bus",
+    "correct_word_accent": "Bus",
+    "object_id": "6",
+    "level_id": null,
+    "created_at": "2023-01-18T07:39:39.000000Z",
+    "updated_at": "2023-02-04T07:41:04.000000Z"
+  },
+  {
+    "id": 10,
+    "word": "Car",
+    "word1": "Bus",
+    "word_accent": "Car",
+    "word1_accent": "Bus",
+    "image": "sliders/uploads/image63c8f996d352b_825087.jpeg",
+    "correct_word": "Car",
+    "correct_word_accent": "Car",
+    "object_id": "6",
+    "level_id": null,
+    "created_at": "2023-01-18T07:40:01.000000Z",
+    "updated_at": "2023-01-19T08:04:45.000000Z"
+  },
+  {
+    "id": 12,
+    "word": "Train",
+    "word1": "Boat",
+    "word_accent": "Train",
+    "word1_accent": "Boat",
+    "image": "sliders/uploads/image63c8fcc6005a9_256530.jpeg",
+    "correct_word": "Boat",
+    "correct_word_accent": "Boat",
+    "object_id": "6",
+    "level_id": null,
+    "created_at": "2023-01-18T07:43:29.000000Z",
+    "updated_at": "2023-01-19T08:18:16.000000Z"
+  }
+]
